@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Angajat
+comment1.params=nume\ salariu\ varsta\ nivelFunctie
+comment1.target=Angajat(java.lang.String,\ double,\ int,\ int)
+comment2.params=nume\ varsta
+comment2.target=Angajat(java.lang.String,\ int)
+comment3.params=nume\ salariu\ varsta
+comment3.target=Angajat(java.lang.String,\ double,\ int)
+comment4.params=
+comment4.target=Angajat()
+comment5.params=
+comment5.target=void\ afiseazaAngajati()
+comment6.params=a
+comment6.target=int\ diferentaVarsta(Angajat)
+numComments=7
