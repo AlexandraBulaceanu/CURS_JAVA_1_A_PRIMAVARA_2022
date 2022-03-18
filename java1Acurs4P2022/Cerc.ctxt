@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cerc
+comment1.params=
+comment1.target=Cerc()
+comment2.params=raza
+comment2.target=Cerc(double)
+comment3.params=
+comment3.target=double\ arie()
+comment4.params=
+comment4.target=double\ lungime()
+comment5.params=
+comment5.target=int\ nrPuncte()
+numComments=6
