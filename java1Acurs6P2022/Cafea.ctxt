@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cafea
+comment1.params=
+comment1.target=Cafea()
+comment2.params=cantitate
+comment2.target=Cafea(int)
+comment3.params=
+comment3.target=void\ afiseazaCantitate()
+numComments=4
