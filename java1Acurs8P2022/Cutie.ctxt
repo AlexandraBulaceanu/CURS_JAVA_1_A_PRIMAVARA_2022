@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cutie
+comment1.params=
+comment1.target=Cutie()
+comment2.params=continut
+comment2.target=Cutie(java.lang.Object)
+comment3.params=
+comment3.target=java.lang.Object\ m1()
+comment4.params=param
+comment4.target=void\ m2(java.lang.Object)
+comment5.params=q
+comment5.target=void\ m4(java.lang.Object)
+numComments=6
